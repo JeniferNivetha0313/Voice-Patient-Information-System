@@ -16,7 +16,8 @@ The system combines Speech Recognition, Gemini AI, FastAPI, SQLAlchemy, and MySQ
 * SQLAlchemy ORM integration
 * MySQL database support
 * PDF report generation
-* Patient medical history retrieval
+* Patient medical history retriev
+
 * Contact number based search
 * Hospital, doctor, disease, medicine, blood group, and gender filtering
 * English language validation
