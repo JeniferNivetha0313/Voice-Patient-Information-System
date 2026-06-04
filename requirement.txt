@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+python-dotenv
+AIzaSyClA8tU38FH2_ReM4eHeLGxeNZGlE9i0Rc
+AIzaSyDNEg_OEh2PD9STCdHb_yUvg20QJVdm27A
+AIzaSyCw570_nsuSC_3NXZYzcC_9EfHSBu_Ds44
+AIzaSyCQk8Bpca76qrpL--IBtcL71HDTwC7FGXk
