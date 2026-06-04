@@ -247,7 +247,7 @@ npm run dev
 
 ![Error handling](Screenshot/p1.png)
 
-### Error Handling (Unrelated deatils)
+### Error Handling (Unrelated details)
 
 ![Error handling](Screenshot/p2.png)
 
